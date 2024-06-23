@@ -7,7 +7,7 @@
 
 .container {
     border: 1px solid #000;
-    background-color: #95E1D3;
+    background-color: rgba(0, 128, 0, 0.3);
 }
 
 h3 {
