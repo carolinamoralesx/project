@@ -18,7 +18,7 @@ h3 {
     border-bottom: 1px solid #000;
     border-left: 1px solid #000;
     font-size: 125%;
-    background-color: #EAFFD0;
+    background-color: rgba(0, 128, 0, 0.3);
 }
 
 h1 {
